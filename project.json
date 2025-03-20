@@ -1,0 +1,19 @@
+{
+    "name": "AutoXJS模板项目",
+    "main": "main.js",
+    "versionName": "1.0.0",
+    "versionCode": 1,
+    "packageName": "com.example.autoxjs",
+    "icon": "res/icon.png",
+    "launchConfig": {
+        "displaySplash": true,
+        "hideLogs": false,
+        "splashText": "正在启动...",
+        "stableMode": false
+    },
+    "optimization": {
+        "removeAccessibilityService": false,
+        "removeOpenCv": true,
+        "unusedResources": true
+    }
+}
